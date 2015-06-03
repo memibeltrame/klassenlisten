@@ -1,0 +1,62 @@
+.affix {
+    top: 60px; /* Position where the element is fixed */
+}
+
+.header-fixed {
+    margin-top: 60px;
+}
+
+.combo-label {
+    text-align: right;
+    padding-top: 6px;
+}
+.form-control.large {
+    font-size: 16px;
+
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.profil .combo-label {
+    text-align: left;
+    min-height: 35px;
+}
+
+.listenEintrag a {
+    color: #333;
+
+}
+.listenEintrag {
+    min-height: 130px;
+
+}
+
+.withfadeout {
+  opacity: 1;
+}
+
+.inliner{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    line-height: 21px;
+}
+.subtitle{
+    margin: 0 0 20px;
+}
+.servicelinks {
+    margin-top: 20px;
+}
+.formElement{
+    line-height: 23px;
+}
+.pile .listenEintrag{
+    margin-top: 20px;
+}
+h4.zeromargin, div.media.zeromargin{
+    margin:0;
+}

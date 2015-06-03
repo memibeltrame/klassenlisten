@@ -1,0 +1,31 @@
+users:
+  addId: true
+  1:
+    fullName: Sara Default-User
+    email: one@company.com
+    username: sammy
+    role: user
+  2:
+    fullName: Mara Admin
+    email: two@company.com
+    username: mara
+    role: admin
+  3:
+    fullName: Lara Superadmin
+    email: three@company.com
+    username: lara
+    role: superadmin
+
+roles:
+  superadmin:
+    name: Superadmin
+    permissions: ['createData', 'editData', 'deleteData','addUser']
+  admin:
+    name: Admin
+    permissions: ['createData', 'editData', 'deleteData']
+  user:
+    name: Default User
+    permissions: ['editData']
+  guest:
+    name: Guest User
+    permissions: [ ]

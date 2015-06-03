@@ -1,0 +1,43 @@
+application: My Site
+brand: "Schule für Gestaltung Bern + Biel"
+
+# The following is dummy data
+
+carousel:
+  0:
+    image: "gallery1.jpg"
+    caption-title: "Caption 1"
+    caption-text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  1:
+    image: "gallery2.jpg"
+    caption-title: "Caption 2"
+    caption-text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+  2:
+    image: "gallery3.jpg"
+    caption-title: "Caption 3"
+    caption-text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+people:
+  1:
+    name: Anna Alpha
+    img: f_1
+    function: Head of Sales
+    email: anna.alpha@acme.com
+
+  2:
+    name: Bruno Bravo
+    img: m_8
+    function: Marketing Specialist
+    email: bruno.bravo@company.com
+
+  3:
+    name: Chucky Charly
+    img: m_9
+    function: Strategy Consultant
+    email:
+
+  4:
+    name: Doris Delta
+    img: f_2
+    function: Member of the Board
+    email:

@@ -1,0 +1,14 @@
+config:
+  datepickerFormat: dd.mm.yyyy
+  defaultUser: 1
+  loginWith: email # username | email
+  cssFiles:
+    ["bootstrap.min.css",
+    "add2home.css",
+    "bootstrap-select.min.css",
+    "bootstrap-switch.min.css",
+    "datepicker3.css",
+    "sortable.css",
+    "fontawesome.css",
+    "protostrap.css"]
+
